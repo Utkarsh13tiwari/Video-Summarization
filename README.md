@@ -18,14 +18,15 @@ This project extracts and summarizes YouTube video content using AI. It utilizes
 ```bash
 git clone [<repo_link>](https://github.com/Utkarsh13tiwari/Video-Summarization)
 cd [<repo_name>](https://github.com/Utkarsh13tiwari/Video-Summarization)
+```
 
 ### Intall Libraries
-
+```bash
 pip install -r requirements.txt
-
+```
 ### Run the app
-
+```bash
 streamlit run <script_name.py>
-
+```
 
 ## Additionally please see the Screenshorts in the folders created
