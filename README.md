@@ -20,7 +20,7 @@ git clone [<repo_link>](https://github.com/Utkarsh13tiwari/Video-Summarization)
 cd [<repo_name>](https://github.com/Utkarsh13tiwari/Video-Summarization)
 ```
 
-### Intall Libraries
+### Install Libraries
 ```bash
 pip install -r requirements.txt
 ```
