@@ -1,0 +1,6 @@
+streamlit
+yt-dlp
+whisper
+langchain-groq
+youtube-transcript-api
+pymupdf  # For fitz (PyMuPDF)
